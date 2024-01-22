@@ -1,0 +1,6 @@
+,best,worst,average
+0,id=3 individual_bits='110011' individual_num=51 x=2.4761904761904763 fx=27.829756437738318 generation=0,id=0 individual_bits='000111' individual_num=7 x=-3.111111111111111 fx=-7.763450472432108 generation=0,6.303839634373697
+1,id=9 individual_bits='111001' individual_num=57 x=3.2380952380952372 fx=57.825223671133145 generation=1,id=4 individual_bits='000011' individual_num=3 x=-3.619047619047619 fx=-21.134944400683064 generation=1,4.671828910168575
+2,id=62 individual_bits='111111' individual_num=63 x=4.0 fx=87.91659586763558 generation=2,id=20 individual_bits='000000' individual_num=0 x=-4.0 fx=-40.08340413236442 generation=2,8.452884204759002
+3,id=158 individual_bits='111111' individual_num=63 x=4.0 fx=87.91659586763558 generation=3,id=123 individual_bits='000000' individual_num=0 x=-4.0 fx=-40.08340413236442 generation=3,10.316924872340635
+4,id=61 individual_bits='111111' individual_num=63 x=4.0 fx=87.91659586763558 generation=4,id=234 individual_bits='000000' individual_num=0 x=-4.0 fx=-40.08340413236442 generation=4,3.276584722358667
